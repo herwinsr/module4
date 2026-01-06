@@ -3522,3 +3522,5 @@ const styles = {
     fontWeight: 500,
   },
 };
+
+i have shared two components here timebased rate and common ledger table there is a dropdown that is common here partner dropdown in the timebased rate and other pages the partners dropdown is working as expected but in ledger alone in the partner dropdown when a user select an option the dropdown closes and the user needs to click on the dropdown again and select but whereas the other pages it will stay open the user will br able to select multiple options this issue only persists in ledger section only for partners dropdown 
